@@ -1,0 +1,180 @@
+
+body {
+    margin: 0 auto;
+    
+    color: #40514E;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:normal ;
+
+}
+
+a {
+    color: #11999E;
+    margin: auto 20px;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr {
+    width: 10%;
+    border-width: 5px;
+    border-style: dotted none none none ;
+    border-color:#66BFBF;
+    margin: 50px auto 50px auto;
+    
+}
+
+
+.baking {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.development {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.call {
+    padding: 0 auto;
+    color:#11999E;
+    font-style:normal;
+}
+.email {
+    text-decoration:none;
+    
+    color:#11999E;
+    font-style: italic;
+    font-size: large;
+    padding: 0 auto;
+    margin: 0;
+
+}
+
+.name-header {
+    color: #66BFBF;
+    font-size: 5rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2rem;
+}
+
+.name-text {
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.myphoto {
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+}
+
+.pro {
+    text-decoration: underline;
+    color: #66BFBF;
+}
+.TopCloud {
+    position: absolute;
+    top: 40px;
+    right: 400px;
+
+
+}
+.BottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+
+}
+.middle-container {
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.development {
+    width: 25%;
+    height: auto;
+    float: left;
+    margin-right: 30px;
+}
+
+.baking {
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-left: 30px;
+}
+.design-description {
+    clear: left;
+}
+.baking-text  {
+    clear: right;
+}
+
+.copy-right {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    
+}
+
+.footer-link {
+    color: #11999E;
+    
+    text-decoration: none;  
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.btn {
+    background-image: linear-gradient( #11cdd4, #11999e);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 1.25rem;
+    width: 150px;
+    height: 50px;
+}
+
+.btn:hover {
+    background-image:linear-gradient( #30e3cb, #2bc4ad) ;
+    color: black;
+}
+.contact-me {
+    line-height: 2;
+}
